@@ -1,4 +1,4 @@
 body#SurveyEngineBody {
-  background-image: none;
-  background: #fff;
+  background-image: none !important;
+  background: #fff !important;
 }

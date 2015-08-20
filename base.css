@@ -29,16 +29,3 @@ body#SurveyEngineBody {
   padding: 0;
   border: 0;
 }
-
-.center-header{
-  text-align: center;
-  font-size: 36px;
-  background: #00AEEC;
-  border: 2px solid #fff;
-  margin: auto 0;
-  color: #fff;
-}
-
-.intro-slide{
-  background-image: url("https://stcorbett.github.io/qualtrics-visuals/IMAG1580.jpg");
-}

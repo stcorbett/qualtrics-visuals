@@ -2,12 +2,15 @@
   text-align: center;
   font-size: 36px;
   background: #00AEEC;
-  border: 2px solid #fff;
-  margin: auto 0;
   color: #fff;
+
   position: absolute;
   top: 40%;
   width: 100%;
+
+  padding: 5px 20px;
+  border: 2px solid #fff;
+  margin: 0;
 }
 
 .intro-slide{

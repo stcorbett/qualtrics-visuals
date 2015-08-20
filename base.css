@@ -29,3 +29,7 @@ body#SurveyEngineBody {
   padding: 0;
   border: 0;
 }
+
+.strong{
+  font-weight: bold;
+}

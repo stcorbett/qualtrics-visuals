@@ -36,6 +36,7 @@ body#SurveyEngineBody {
 
 .container, .intro-slide{
   min-height: 500px;
+  position: relative;
 }
 
 fieldset{

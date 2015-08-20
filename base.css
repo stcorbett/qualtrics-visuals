@@ -6,3 +6,15 @@ body#SurveyEngineBody {
 .Skin #Header{
   background:none !important;
 }
+
+.QuestionText.BorderColor{
+  padding: 0;
+  border: 0;
+}
+
+.center-header{
+  text-align: center;
+  font-size: 36px;
+  background: #00AEEC;
+  border: 2px solid #fff;
+}

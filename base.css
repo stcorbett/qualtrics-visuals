@@ -2,3 +2,7 @@ body#SurveyEngineBody {
   background-image: none !important;
   background: #fff !important;
 }
+
+.Skin #Header{
+  background:none !important;
+}

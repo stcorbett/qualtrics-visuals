@@ -1,0 +1,35 @@
+.QuestionText.BorderColor{
+  padding: 0;
+  border: 0;
+}
+
+.informative{
+  font-size: 20px;
+}
+
+.informative .text-left{
+  float: left;
+}
+
+.informative .text-left h2{
+  color: #00AEEC;
+  font-size: 30px;
+}
+
+.informative .text-left p{
+  padding: 20px;
+}
+
+.informative .text-right{
+  float: right;
+  background: #17365D;
+  color: #fff;
+  font-size: 30px;
+  min-height: 100%;
+}
+
+.informative .text-right div{
+  position: absolute;
+  top: 40%;
+}
+

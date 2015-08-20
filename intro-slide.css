@@ -5,9 +5,13 @@
   border: 2px solid #fff;
   margin: auto 0;
   color: #fff;
+  position: absolute;
+  top: 40%;
+  width: 100%;
 }
 
 .intro-slide{
   min-height: 500px;
   background-image: url("https://stcorbett.github.io/qualtrics-visuals/IMAG1580.jpg");
+  background-size: cover;
 }

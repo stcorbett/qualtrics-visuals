@@ -22,7 +22,8 @@
 }
 
 .informative .text-right{
-  float: right;
+  position: absolute;
+  right: 0;
   background: #17365D;
   color: #fff;
   font-size: 30px;

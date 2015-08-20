@@ -8,6 +8,15 @@ body#SurveyEngineBody {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
 
+.Header{
+  display: none !important;
+}
+
+.SkinInner, .Questions, .QuestionOuter, .Inner.TB{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .Skin #Header{
   background:none !important;
 }

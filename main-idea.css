@@ -1,6 +1,14 @@
+.QuestionText.BorderColor{
+  padding: 0;
+  border: 0;
+}
+
 .main-idea{
-  font-size: 20px;
+  font-size: 30px;
+  font-weight: 600;
 }
 
 .main-idea .highlight{
+  color: #00AEEC;
+  font-weight: 700;
 }

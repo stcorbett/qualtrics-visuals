@@ -1,0 +1,11 @@
+.poster{
+  background: #308198 url("https://stcorbett.github.io/qualtrics-visuals/uic-logo.gif") right bottom;
+}
+
+.poster p{
+  margin-top: 30px;
+}
+
+.poster .highlight{
+  color: #FFFF0B;
+}

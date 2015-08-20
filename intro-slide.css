@@ -1,3 +1,9 @@
+/* remove border that otherwise shows right under questions */
+.QuestionText.BorderColor{
+  padding: 0;
+  border: 0;
+}
+
 .center-header{
   text-align: center;
   font-size: 36px;

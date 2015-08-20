@@ -8,17 +8,21 @@ body#SurveyEngineBody {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
 
-.Header{
+#Header{
   display: none !important;
+}
+
+.Skin #Header{
+  background:none !important;
+}
+
+.SkinInner{
+  width: 100%;
 }
 
 .SkinInner, .Questions, .QuestionOuter, .Inner.TB{
   margin: 0 !important;
   padding: 0 !important;
-}
-
-.Skin #Header{
-  background:none !important;
 }
 
 .QuestionText.BorderColor{

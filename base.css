@@ -1,6 +1,11 @@
+div#LogoBar{
+  display: none;
+}
+
 body#SurveyEngineBody {
   background-image: none !important;
   background: #fff !important;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
 
 .Skin #Header{

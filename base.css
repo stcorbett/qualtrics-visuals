@@ -12,6 +12,10 @@ body#SurveyEngineBody {
   display: none !important;
 }
 
+#TrialAccountFooter{
+  display: none;
+}
+
 .Skin #Header{
   background:none !important;
 }

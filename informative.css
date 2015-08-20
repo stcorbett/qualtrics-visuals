@@ -9,7 +9,7 @@
 
 .informative .text-left{
   float: left;
-  width: 45%;
+  width: 55%;
 }
 
 .informative .text-left h2{
@@ -29,12 +29,12 @@
   color: #fff;
   font-size: 30px;
   min-height: 100%;
-  width: 45%;
+  width: 40%;
 }
 
 .informative .text-right div{
   position: absolute;
   top: 40%;
-  padding: 10px;
+  padding: 20px;
 }
 

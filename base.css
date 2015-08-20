@@ -6,6 +6,7 @@ body#SurveyEngineBody {
   background-image: none !important;
   background: #fff !important;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  top: 0 !important;
 }
 
 #Header{

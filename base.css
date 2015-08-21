@@ -29,7 +29,7 @@ body#SurveyEngineBody {
   width: 100%;
 }
 
-.SkinInner, .Questions, .QuestionOuter, .Inner.TB{
+.SkinInner, .Questions, #Questions, .QuestionOuter, .Inner.TB{
   margin: 0 !important;
   padding: 0 !important;
 }

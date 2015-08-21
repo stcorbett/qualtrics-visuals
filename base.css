@@ -17,6 +17,10 @@ body#SurveyEngineBody {
   display: none;
 }
 
+#ProgressBar{
+  clear:both;
+}
+
 .Skin #Header{
   background:none !important;
 }

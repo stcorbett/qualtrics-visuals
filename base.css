@@ -54,3 +54,7 @@ fieldset{
 .show-image{
   margin: 30px auto;
 }
+
+.padding{
+  padding: 40px;
+}

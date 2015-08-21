@@ -2,7 +2,10 @@
   background: #308198 url("https://stcorbett.github.io/qualtrics-visuals/uic-logo.gif") right bottom no-repeat;
   position: absolute;
   top: 0;
+  left: 0;
+  rigth: 0;
   min-height: 100%;
+  padding: 40px;
 }
 
 .poster p{

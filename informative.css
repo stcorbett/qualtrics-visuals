@@ -13,7 +13,9 @@
 }
 
 .informative .text-left p{
-  padding: 40px;
+  padding: 20px 40px;
+  font-size: 20px;
+
 }
 
 .informative .text-right{

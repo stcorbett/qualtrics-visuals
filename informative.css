@@ -25,6 +25,7 @@
 .informative .text-right{
   position: absolute;
   right: 0;
+  padding-left: 22px;
   text-indent: -22px;
   background: #17365D;
   color: #fff;

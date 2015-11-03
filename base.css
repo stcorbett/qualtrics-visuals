@@ -39,7 +39,7 @@ body#SurveyEngineBody {
 }
 
 .container, .intro-slide{
-  min-height: 520px ;
+  min-height: 510px ;
   position: relative;
 }
 

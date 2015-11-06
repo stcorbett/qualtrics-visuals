@@ -12,6 +12,11 @@
   width: 55%;
 }
 
+.informative .highlight{
+  color: #00AEEC;
+  font-weight: 700;
+  }
+
 .informative .text-left h2{
   color: #00AEEC;
   font-size: 20px;

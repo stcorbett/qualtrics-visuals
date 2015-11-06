@@ -3,6 +3,13 @@
   border: 0;
 }
 
+#parent {
+    font-size: 0;
+}
+
+#child {
+    font-size: 30px;
+}
 .main-idea{
   font-size: 30px;
   position: absolute;

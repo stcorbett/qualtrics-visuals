@@ -12,10 +12,15 @@
   width: 55%;
 }
 
+.informative .text-left h2{
+  color: #00AEEC;
+  font-size: 20px;
+  padding: 20px 40px;
+-}
+
 .informative .text-left p{
   padding: 20px 40px;
   font-size: 20px;
-
 }
 
 .informative .text-right{

@@ -5,12 +5,12 @@
 
 .informative{
   font-size: 20px;
-  padding: 20px 40px 20px 40px;
 }
 
 .informative .text-left{
   float: left;
   width: 55%;
+  padding: 20px 0px 0px 0px;
 }
 
 .informative .text-left h2{

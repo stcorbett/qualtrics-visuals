@@ -8,8 +8,9 @@
 }
 
 .poster p{
-  font-size: 30px;
-  margin-top: 30px;
+  font-size: 40px;
+  margin-top: 40px;
+  padding: 0px 40px;
   color: #fff;
   font-weight: 600;
 }

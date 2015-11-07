@@ -9,7 +9,7 @@
 
 .info-pic .text-left{
   float: left;
-  width: 50%;
+  width: 55%;
 }
 
 .info-pic .text-left h2{
@@ -24,6 +24,7 @@
 
 .info-pic .wrapper{
     position: absolute;
+    font size: 0;
     right: 0;
     width: 30%;
     min-height: 100%;

@@ -25,12 +25,13 @@
 .info-pic .wrapper{
     position: absolute;
     right: 0;
-    width: 40%;
+    width: 30%;
     min-height: 100%;
     background: #00AEEC;
 }
   
 .info-pic .dv-right{
+    padding: 0;
     position: absolute;
     top: 0;
     left: 0;

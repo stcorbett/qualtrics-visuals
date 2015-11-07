@@ -34,7 +34,7 @@
 .info-pic .can-right{
   position: absolute;
   right: 0;
-  background: url("https://stcorbett.github.io/qualtrics-visuals/can-logo.png") 10% 50% no-repeat;
+  background: url("https://stcorbett.github.io/qualtrics-visuals/can-logo.png") repeat;
   min-height: 100%;
   width: 50%;
 }

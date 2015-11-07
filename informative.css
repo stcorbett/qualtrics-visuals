@@ -40,6 +40,23 @@
   width: 40%;
 }
 
+.informative .text-right.abuse1{
+  position: absolute;
+  right: 0;
+  padding-left: 15px ;
+  background: #17365D;
+  color: #fff;
+  font-size: 20px;
+  min-height: 100%;
+  width: 40%;
+}
+
+.informative .text-right.abuse1 div{
+  position: absolute;
+  top: 20%;
+  padding: 20px;
+}
+
 .informative .text-right div{
   position: absolute;
   top: 30%;

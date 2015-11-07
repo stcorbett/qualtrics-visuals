@@ -34,9 +34,9 @@
 .info-pic .dv-right{
     padding: 0;
     position: absolute;
-    top: 0;
-    left: 0;
-    right: -20px;
+    top: 5px;
+    left: 10px;
+    right: 0px;
     bottom: 0;
     background: url("https://cloud.githubusercontent.com/assets/12477798/11013700/7c2e096c-84dd-11e5-8bf6-40c5a7ee0a6a.png") 100% no-repeat;
     background-size: cover;

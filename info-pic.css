@@ -24,12 +24,19 @@
 
 .info-pic .wrapper{
     position: absolute;
-    right: 0px;
-    top: 0px;
+    right: 0;
     width: 40%;
     min-height: 100%;
     background: #00AEEC;
 }
+  
+
+.info-pic .wrapper div{
+  position: absolute;
+  top: 30%;
+  padding: 20px;
+}
+
 
 .info-pic .dv-right{
     position: absolute;

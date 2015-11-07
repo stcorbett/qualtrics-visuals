@@ -22,7 +22,7 @@
   padding: 20px;
 }
 
-.info-pic wrapper{
+.info-pic .wrapper{
     position: absolute;
     right; 0px;
     top: 0px;

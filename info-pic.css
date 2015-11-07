@@ -24,9 +24,8 @@
 
 .info-pic .dv-right{
   position: absolute;
-  right: 0;
   background: url("https://cloud.githubusercontent.com/assets/12477798/11011518/5e1fd20e-84ae-11e5-82fc-343bdb3629dc.png") no-repeat;
-  background position: right;
+  background position: right 10px center;
 }
 
 

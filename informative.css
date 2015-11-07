@@ -43,7 +43,6 @@
 .informative .text-right-abuse1{
   position: absolute;
   right: 0;
-  top: 10%;
   padding-left: 30px ;
   background: #17365D;
   color: #fff;
@@ -55,7 +54,7 @@
 .informative .text-right-abuse1 div{
   position: absolute;
   top: 30%;
-  padding: 20px;
+  padding: 10px 20px 20px 20px;
 }
 
 .informative .text-right div{

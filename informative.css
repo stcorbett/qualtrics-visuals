@@ -40,7 +40,7 @@
   width: 40%;
 }
 
-.informative .text-right.abuse1{
+.informative .text-right-abuse1{
   position: absolute;
   right: 0;
   padding-left: 15px ;
@@ -51,7 +51,7 @@
   width: 40%;
 }
 
-.informative .text-right.abuse1 div{
+.informative .text-right-abuse1 div{
   position: absolute;
   top: 20%;
   padding: 20px;

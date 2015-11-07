@@ -38,10 +38,10 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: url("https://cloud.githubusercontent.com/assets/12477798/11011518/5e1fd20e-84ae-11e5-82fc-343bdb3629dc.png") 0% 100% no-repeat;
+    background: url("https://cloud.githubusercontent.com/assets/12477798/11013700/7c2e096c-84dd-11e5-8bf6-40c5a7ee0a6a.png") 0% 100% no-repeat;
     background-size: contain;
 }
-
+/*https://cloud.githubusercontent.com/assets/12477798/11011518/5e1fd20e-84ae-11e5-82fc-343bdb3629dc.png*/
 
 .info-pic .can-right{
   position: absolute;

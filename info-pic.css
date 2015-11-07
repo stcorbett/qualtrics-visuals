@@ -22,14 +22,22 @@
   padding: 20px;
 }
 
+.info-pic wrapper{
+    position: absolute;
+    right; 0px;
+    top: 0px;
+    width: 40%;
+    height: 100%;
+}
+
 .info-pic .dv-right{
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  background: url("https://cloud.githubusercontent.com/assets/12477798/11011518/5e1fd20e-84ae-11e5-82fc-343bdb3629dc.png") 0% 100% no-repeat;
-  width: auto;
-  min-width: 40%;
-  min-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("https://cloud.githubusercontent.com/assets/12477798/11011518/5e1fd20e-84ae-11e5-82fc-343bdb3629dc.png") 0% 100% no-repeat;
+    background-size: contain;
 }
 
 

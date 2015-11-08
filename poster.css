@@ -1,11 +1,11 @@
 .poster{
   background: #308198, url("https://cloud.githubusercontent.com/assets/12477798/11018067/93b015d6-857c-11e5-9038-0cb87d46f632.PNG");
-  background-repeat: no-repeat, no-repeat;right bottom
-  background-position: absolute;
+  background-repeat: no-repeat;
+  background-position: right bottom absolute;
   top: 0;
   left: 0;
   right: 0;
-  background-sizet: 100%,10%;
+  background-size: 100%,10%;
 }
 
 

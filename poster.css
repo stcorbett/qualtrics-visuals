@@ -1,22 +1,11 @@
 .poster{
-  background: #308198 url("https://cloud.githubusercontent.com/assets/12477798/11018444/01ad8462-858f-11e5-96a4-1c66adfb4df2.JPG") right bottom no-repeat;
+  background: #308198 right bottom no-repeat;
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   min-height: 100%;
 }
-
-/*.poster{
-   background: #308198 url("https://stcorbett.github.io/qualtrics-visuals/uic-logo.gif") right bottom no-repeat;
-   position: absolute;
-   top: 0;
-   left: 0;
-   right: 0;
-   min-height: 100%;
- }*/
-
-/* the old logo https://stcorbett.github.io/qualtrics-visuals/uic-logo.gif */
 
 .poster p{
   font-size: 40px;
@@ -31,6 +20,7 @@
   color: #fff;
   font-weight: 600;
 }
+
 
 .poster .highlight{
   color: #FFFF0B;

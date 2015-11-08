@@ -48,6 +48,15 @@
 }
 /*https://cloud.githubusercontent.com/assets/12477798/11011518/5e1fd20e-84ae-11e5-82fc-343bdb3629dc.png*/
 
+.info-pic .wrapper.stalk{
+    position: absolute;
+    font size: 0;
+    top: 0px;
+    right: 0;
+    width: 50%;
+    min-height: 100%;
+  }
+
 .info-pic .stalk-right{
   position: absolute;
   right: 0;

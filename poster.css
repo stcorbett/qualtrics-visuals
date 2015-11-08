@@ -1,7 +1,6 @@
 .poster html,body{
-  background: #308198, url("https://cloud.githubusercontent.com/assets/12477798/11018067/93b015d6-857c-11e5-9038-0cb87d46f632.PNG");
-  background-repeat: no-repeat;
-  background-position: right bottom absolute;
+  background: #308198 right bottom no-repeat, url("https://cloud.githubusercontent.com/assets/12477798/11018067/93b015d6-857c-11e5-9038-0cb87d46f632.PNG") right bottom no-repeat;
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;

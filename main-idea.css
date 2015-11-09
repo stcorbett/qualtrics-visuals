@@ -6,7 +6,8 @@
 .main-idea{
   font-size: 30px;
   position: absolute;
-  top: 35%;
+  margin: auto;
+  width: 60%;
   padding: 0 150px;
 }
 

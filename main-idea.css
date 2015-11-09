@@ -3,7 +3,7 @@
   border: 0;
 }
 
-.main-idea{
+/*.main-idea{
   font-size: 30px;
   position: absolute;
   /*top: 35%;*/
@@ -11,14 +11,14 @@
  }
 
 .main-idea div{
+  font-size: 30px;
   height: 160px;
   text-align: center;
-  vertical-align: middle;
   margin: auto;
   width: 80%;
 }
 
-/*.main-idea span{
+.main-idea span{
   display: inline-block;
   vertical-align: middle;
   line-height: normal;      

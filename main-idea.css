@@ -6,7 +6,7 @@
 .main-idea{
   font-size: 30px;
   position: absolute;
-  top: 35%;
+  /*top: 35%;*/
   /*padding: 0 150px;*/
  }
 
@@ -18,11 +18,11 @@
   width: 80%;
 }
 
-.main-idea span{
+/*.main-idea span{
   display: inline-block;
   vertical-align: middle;
   line-height: normal;      
-}
+}*/
 
 .main-idea .highlight{
   color: #00AEEC;

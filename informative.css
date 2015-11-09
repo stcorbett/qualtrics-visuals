@@ -4,7 +4,7 @@
 }
 
 .informative{
-  font-size: 20px;
+  font-size: 160%;
 }
 
 .informative .text-left{
@@ -19,13 +19,13 @@
   
 .informative .text-left h2{
   color: #00AEEC;
-  font-size: 20px;
+  font-size: 160%;
   padding: 0px 40px;
 }
 
 .informative .text-left p{
   padding: 20px 40px 0px 40px;
-  font-size: 20px;
+  font-size: 160%;
 }
 
 .informative .text-right{

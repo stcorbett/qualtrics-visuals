@@ -6,11 +6,11 @@
 .main-idea{
   font-size: 30px;
   position: absolute;
+  top: 35%;
   vertical-align: middle;
   margin: auto;
   width: 80%;
-  padding: 0 150px;
-}
+ }
 
 .main-idea .highlight{
   color: #00AEEC;

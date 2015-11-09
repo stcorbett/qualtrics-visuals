@@ -7,6 +7,28 @@
   font-size: 20px;
 }
 
+/*to add later.
+html { font-size: 62.5%; }
+body { font-size: 1em;} */           /*1em = 16px, 20px=1.25em*/
+
+/*@media (max-width: 300px) {
+    html { font-size: 70%; }
+}
+
+@media (min-width: 500px) {
+    html { font-size: 80%; }
+}
+
+@media (min-width: 700px) {
+    html { font-size: 120%; }
+}
+
+@media (min-width: 1200px) {
+    html { font-size: 200%; }
+}*/
+
+
+
 .informative .text-left{
   float: left;
   width: 55%;

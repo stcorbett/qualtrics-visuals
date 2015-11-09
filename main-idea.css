@@ -6,6 +6,7 @@
 .main-idea{
   font-size: 30px;
   position: absolute;
+  vertical-align: text-top;
   margin: auto;
   width: 80%;
   padding: 0 150px;

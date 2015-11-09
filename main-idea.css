@@ -6,8 +6,9 @@
 .main-idea{
   font-size: 30px;
   position: absolute;
-  top: 35%;
-  padding: 0 150px;
+  /*top: 35%;*/
+  /*padding: 0 150px;*/
+  padding: 25% 20%;
  }
 
 .main-idea .highlight{

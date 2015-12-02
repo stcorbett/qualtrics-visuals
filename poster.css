@@ -7,7 +7,15 @@
   min-height: 100%;
 }
 
-.poster p{
+.poster .sm p{
+  font-size: 40px;
+  margin-top: 4%;
+  padding: 0px 10%;
+  color: #fff;
+  font-weight: 600;
+}
+
+.poster .nf p{
   font-size: 40px;
   margin-top: 3%;
   padding: 0px 10%;
